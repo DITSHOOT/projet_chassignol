@@ -1,6 +1,16 @@
-# Markdown Simplifié : Guide pour les étudiants en BTS
+# Projet 1ère année BTS - Guide pour les étudiants en BTS [BTS SIO Grp2]
 
-## Table des Matières
+
+Salut tout le monde ! Je suis ravi de partager avec vous mon retour d'expérience en markdown après les six premiers mois de la formation SLAM portant sur les bases de données et les applications web ! (Vous y trouverez la base.)
+
+
+Créateur du Projet : <a href="http://gitform.cilog.fr/fvivet">François Vivet</a> | Projet : <a href="http://gitform.cilog.fr/fvivet/projets_chassignol">AFIL_2024_SIO1_GRP2</a>
+
+🔍 Explorez | 🧠 Apprenez | 🤝 Connectez-vous !
+
+Projet : Centre de Formation Saint-Etienne (CFAI)
+
+## Sommaire
 
 - [**Partie GIT : Cours**](#partie-git-cours)
   - [Git (Software)](#git-software)
@@ -121,7 +131,7 @@ Git est un gestionnaire de source qui permet d'envoyer des fichiers de manière 
 
 ![Texte alternatif](./IMG/git/git1.png)
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 ## Pousser un projet sur Git <a id="pousser-un-projet-sur-git"></a>
 
@@ -152,7 +162,7 @@ Git est un gestionnaire de source qui permet d'envoyer des fichiers de manière 
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 ### Features sur votre IDE <a id="features-sur-votre-ide"></a>
 
@@ -162,7 +172,7 @@ Git est un gestionnaire de source qui permet d'envoyer des fichiers de manière 
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 ---
 
@@ -240,7 +250,7 @@ New : // Permet d'instancier/charger un objet
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
@@ -291,7 +301,7 @@ class Program // Il définit une classe appelée Program.
 
 Après avoir écrit du code, vous devez le compiler en cliquant sur le bouton de compilation de votre IDE (déboguer). Si aucune erreur de compilation n'est détectée, vous pouvez exécuter votre application pour voir comment elle fonctionne.
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
@@ -311,7 +321,7 @@ Voici quelques-uns des opérateurs les plus couramment utilisés en C# :
 - L'opérateur logique ET (``&&``) est utilisé pour combiner deux expressions booléennes et renvoyer vrai si les deux expressions sont vraies.
 - L'opérateur logique OU (``||``) est utilisé pour combiner deux expressions booléennes et renvoyer vrai si au moins une des expressions est vraie.
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 </details>
 
 <details id="instructions">
@@ -347,7 +357,7 @@ for (initialisation; condition; itération)
 - La condition spécifie quand la boucle doit continuer à s'exécuter.
 - L'itération est utilisée pour modifier la variable de contrôle à chaque itération.
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
@@ -368,7 +378,7 @@ do
 
 - Ces trois types d'instructions répétitives sont essentiels pour créer des boucles et automatiser des tâches répétitives en programmation C#. Chacun d'eux a ses cas d'utilisation particuliers en fonction des besoins de votre programme.
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
@@ -415,13 +425,13 @@ Les instructions ``if`` avec ``else`` sont utiles pour prendre des décisions si
 
 Un TimeStamp est un nombre de seconde ou de milliseconde écoulé depuis une date de référence.
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 </details>
 </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 ---
 
@@ -436,7 +446,7 @@ Un TimeStamp est un nombre de seconde ou de milliseconde écoulé depuis une dat
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 
 
@@ -544,7 +554,7 @@ ADD CONSTRAINT nom_contrainte
 FOREIGN KEY (colonne_reference) REFERENCES table_2(colonne_reference);
 ```
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
  </details>
 
@@ -573,7 +583,7 @@ brew doctor
 ```
 </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 <details>
  <summary style="font-size: 25px; font-weight: bold; color: white;">Installation de PostgreSQL</summary>
@@ -630,11 +640,11 @@ brew services start postgresql@15
 sudo brew services list
 ```
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 <details id="gestion-de-base-de-données">
   <summary style="font-size: 25px; font-weight: bold; color: white;">Gestion de base de données</summary>
@@ -676,7 +686,7 @@ open -a pgadmin4
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 ---
 
@@ -715,7 +725,7 @@ brew install --cask dbeaver-community
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
@@ -732,7 +742,7 @@ Pour configurer une connexion à une base de données PostgreSQL dans DBeaver su
 
 3. **Accéder à votre serveur PostgreSQL :** Une fois que le serveur est ajouté, vous pouvez double-cliquer dessus pour accéder à votre base de données PostgreSQL et commencer à travailler avec vos bases de données et tables.
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
   </details>
 
@@ -779,7 +789,7 @@ C'est tout ! Vous avez configuré avec succès une connexion à une base de donn
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
@@ -787,7 +797,7 @@ C'est tout ! Vous avez configuré avec succès une connexion à une base de donn
 </details>
  </details>
 
- [Cliquez ici pour revenir au sommaire](#table-des-matières)
+ [Cliquez ici pour revenir au sommaire](#sommaire)
 
 ---
 
@@ -805,7 +815,7 @@ C'est tout ! Vous avez configuré avec succès une connexion à une base de donn
 
 ![Texte alternatif](./IMG/web/workschemaweb.png)
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 ---
  <details id="définitions">
@@ -853,7 +863,7 @@ C'est tout ! Vous avez configuré avec succès une connexion à une base de donn
 ---
 </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 
 
@@ -900,7 +910,7 @@ est un outil de gestion de base de données qui offre une interface web convivia
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
@@ -958,7 +968,7 @@ Ce dernier nous intéresse tout particulièrement car c'est dans celui-ci que no
 
 <br>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 <details id="configuration-de-mamp">
    <summary style="font-size: 25px; font-weight: bold; color: white;">Configuration de MAMP</summary>
@@ -977,7 +987,7 @@ Ce dernier nous intéresse tout particulièrement car c'est dans celui-ci que no
 
 </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 <details id="configuration-de-phpmyadmin">
    <summary style="font-size: 25px; font-weight: bold; color: white;">Configuration de PhpMyAdmin</summary>
@@ -1051,7 +1061,7 @@ Sauvegardes : Avant d'apporter des modifications importantes, assurez-vous d'avo
 Cela devrait vous donner un bon point de départ pour explorer et utiliser PhpMyAdmin.
 </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 </details>
 
@@ -1059,7 +1069,7 @@ Cela devrait vous donner un bon point de départ pour explorer et utiliser PhpMy
 
 </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
  </details>
 
 ---
@@ -1144,7 +1154,7 @@ Veuillez répondre aux questions suivantes dans un fichier Word et rendre une co
 
  </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 ---
 
@@ -1278,11 +1288,11 @@ Tester différents types d’ordre SQL
 
  </details>
 
-[Cliquez ici pour revenir au sommaire](#table-des-matières)
+[Cliquez ici pour revenir au sommaire](#sommaire)
 
 ---
 
-
+Créé avec ❤️ par Dimitri Chassignol - 2024
 
 
 
